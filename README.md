@@ -28,7 +28,8 @@ On the 7-mm-aperture metalens prototype reported in the paper, the proposed meth
 
 This repository is currently being prepared.
 
-- To be released after paper acceptance
 - core training and inference code
 - model architecture implementation
 - data processing scripts
+
+To be released after paper acceptance
