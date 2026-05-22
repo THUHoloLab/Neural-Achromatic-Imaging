@@ -1,14 +1,14 @@
 # Neural Achromatic Imaging for Large-Scale Metalens
 
-Official repository for the paper:
+Repository for the paper:
 
 **Neural achromatic imaging for large-scale metalens**  
 Jinwen Wei, Yunhui Gao, and Liangcai Cao*
 
 ## Overview
 
-This project presents a neural achromatic imaging framework for large-scale metalens imaging.  
-The method addresses severe chromatic aberration in full-color metalens imaging by combining:
+This project presents the neural achromatic imaging for large-scale metalens imaging.  
+The method mitiagates chromatic aberration in full-color metalens imaging by combining:
 
 - cross-channel image prior
 - physics-informed forward imaging model
@@ -32,4 +32,4 @@ This repository is currently being prepared.
 - model architecture implementation
 - data processing scripts
 
-To be released after paper acceptance
+To be fully released after paper acceptance
